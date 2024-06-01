@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "665a731118b7a97a95841e52"
+  },
+  "title": "Post Title 1 ",
+  "body": "Body of post",
+  "likes": 1,
+  "tags": 12
+}]
