@@ -2,19 +2,7 @@
 // MongoDB Playground
 // Use Ctrl+Space inside a snippet or a string literal to trigger completions.
 
-const database = 'W3School';
-const collection = 'Learn';
 
-// Create a new database.
-use ('W3School');
-
-// Create a new collection.
-db.Learn.insertOne({
-    title:"Post Title 1 ",
-    body: "Body of post",
-    likes: 1,
-    tags: 12
-});
 
 // The prototype form to create a collection:
 /* db.createCollection( <name>,
