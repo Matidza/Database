@@ -5,7 +5,7 @@
 
 ## Overview
 
-Welcome to the MongoDB and MySQL Database Project! This repository is dedicated to showcasing examples and best practices for working with MongoDB and MySQL databases. Whether you are a beginner learning about NoSQL and SQL databases or an experienced developer seeking practical examples, this project aims to provide a helpful resource.
+Welcome to the MongoDB and MySQL Database Repo! This repository is dedicated to showcasing examples and best practices for working with MongoDB and MySQL databases. Whether you are a beginner learning about NoSQL and SQL databases or an experienced developer seeking practical examples, this project aims to provide a helpful resource.
 
 ## Table of Contents
 
