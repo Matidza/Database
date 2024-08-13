@@ -1,0 +1,6 @@
+_id,name,age,country,skills[0],skills[1],skills[2]
+66a3717605dcc025524ccc67,Zwivhuya,25,South Africa,Python,MongoDB,Flask
+66a373d726ffc332a6c31b70,Michelle,20,South Africa,Python,MongoDB,Flask
+66a373d726ffc332a6c31b71,Wanga,22,South Africa,Python,MongoDB,Flask
+66a376b4a2d20870c7b85739,Muk,23,South Africa,Python,MongoDB,Flask
+66a376b4a2d20870c7b8573a,Thando,22,South Africa,Python,MongoDB,Flask

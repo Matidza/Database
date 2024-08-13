@@ -1,0 +1,44 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "3efcb1f3-3bd1-4316-b50a-d1425669c921",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1720210501051"
+        }
+      },
+      "favorite": {
+        "name": "Cluster Learn",
+        "color": "color7"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://Matidza@cluster.zjpty70.mongodb.net/",
+        "oidc": {}
+      },
+      "connectionSecrets": "AAFiMPTZZg/1xXtb51URfpqOQgUyo25f/sNPdNx55U2t8ZAAUVQKJYeNzkIFkzjZ5ojszZ2uyxoy9i9j3PZbTjoxJpfr0QFCtvuIYXicyzjU3JS+1e2vTYLzYQJOZmS/9SfwRPz6aQQ0UoIf9mmGrTnWDVzmrTAEuJg0Gx1nMcpdRekXWC5UL6Uxl3oB7b/D9rzqVF2fX0/IHs/oTqE="
+    },
+    {
+      "id": "d28a49d8-7c07-474a-89c7-d45901adaafe",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1722876508909"
+        }
+      },
+      "favorite": {
+        "name": "Learn",
+        "color": "color5"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      },
+      "connectionSecrets": "AAFV0CUlW4OhZYCjFiXYgUu6Idq27baANicCylBUJI/OIUZUfv2oIgg7Ss9FSAJSNvQyonmb4RgQF+J8wFQmUuVZWoU19AnnV8Cl0vfFGp801EMzA3fxiidpM0HWEM3MZNqiLgOzmzPZcI53NNVWVvcedYeFtoeqImvnMwwXbYRC201mYIPz/IjZNJ0="
+    }
+  ]
+}

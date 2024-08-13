@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "665dbd513609da8159a9dd4f"
+  },
+  "name": "Zwivhuya",
+  "age": 27,
+  "gpa": 3.5,
+  "Student": true
+},
+{
+  "_id": {
+    "$oid": "665dbd513609da8159a9dd50"
+  },
+  "name": "Thando",
+  "age": 21,
+  "gpa": 3.8,
+  "Student": true
+},
+{
+  "_id": {
+    "$oid": "665dbd513609da8159a9dd51"
+  },
+  "name": "Michelle",
+  "age": 20,
+  "gpa": 2.5,
+  "student": true
+},
+{
+  "0": {
+    "name": "Nomfundo",
+    "age": 27,
+    "gpa": 3.5,
+    "Student": true,
+    "registeredDate": {
+      "$date": "2024-06-03T13:03:03.069Z"
+    },
+    "graduated": null,
+    "courses": [
+      "Biology",
+      "Chemistry",
+      "calculus"
+    ],
+    "address": {
+      "street": "123 Fake St.",
+      "city": "Makhado",
+      "zip": 920
+    }
+  },
+  "_id": {
+    "$oid": "665dbf079b1d9e3ec210d1d9"
+  }
+}]

@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9a"
+  },
+  "item": "abc",
+  "price": 10,
+  "quantity": 2,
+  "date": {
+    "$date": "2014-03-01T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9b"
+  },
+  "item": "jkl",
+  "price": 20,
+  "quantity": 1,
+  "date": {
+    "$date": "2014-03-01T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9c"
+  },
+  "item": "xyz",
+  "price": 5,
+  "quantity": 10,
+  "date": {
+    "$date": "2014-03-15T09:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9d"
+  },
+  "item": "xyz",
+  "price": 5,
+  "quantity": 20,
+  "date": {
+    "$date": "2014-04-04T11:21:39.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9e"
+  },
+  "item": "abc",
+  "price": 10,
+  "quantity": 10,
+  "date": {
+    "$date": "2014-04-04T21:23:13.331Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5c9f"
+  },
+  "item": "def",
+  "price": 7.5,
+  "quantity": 5,
+  "date": {
+    "$date": "2015-06-04T05:08:13.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5ca0"
+  },
+  "item": "def",
+  "price": 7.5,
+  "quantity": 10,
+  "date": {
+    "$date": "2015-09-10T08:43:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668cb03d367988ce362a5ca1"
+  },
+  "item": "abc",
+  "price": 10,
+  "quantity": 5,
+  "date": {
+    "$date": "2016-02-06T20:20:13.000Z"
+  }
+}]
